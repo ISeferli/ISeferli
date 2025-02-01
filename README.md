@@ -45,7 +45,7 @@
 <br>
 <h2 align="center">Contact Me:</h2>
 <p align="center">
-    <a href="www.linkedin.com/in/iliodora-seferli-926ab8187" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/iliodora-seferli-926ab8187" target="blank"><img align="center"
        src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
        alt="azzar" height="30"/></a>
     <a href="mailto:iliodorasef@gmail.com" target="blank"><img align="center"
